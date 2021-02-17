@@ -11,3 +11,5 @@ Download youtube mp3 with using a batch file
 - Download the [**FFMPEG**](https://github.com/GyanD/codexffmpeg/releases/latest)(Note: download the **full_build.7z**) and open the .7z and go into **/bin** folder, 
 drop to the folder you created.
 - It's done open the **youtube-mp3.bat** paste youtube video url and specify folder
+## 0xc000007b Error Fix
+https://drive.google.com/file/d/1xqyiBJ6I8UPNWPeuPZrJwLoV3oqqRJIc/view
